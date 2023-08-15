@@ -1,6 +1,8 @@
-# React + Vite
+# Check Temperate as Boiling Pint
 
-![Chat Room Architecture](https://github.com/shoeb240/react-boiling-point/public/screeshot.png)
+## React + Vite
+
+![Screenshot](https://github.com/shoeb240/react-boiling-point/blob/main/public/screeshot.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
